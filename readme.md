@@ -19,7 +19,7 @@ You can also specify the number of **decimal digits** of precision.
    ```bash
    git clone https://github.com/ganapathi1578/Number_Guessing_Game.git
    cd Number_Guessing_Game
-````
+   ```
 
 2. Run the Python script:
 
